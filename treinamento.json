@@ -1,0 +1,15 @@
+{
+    "class_name": "RandomForestRegressor",
+    "module": "sklearn.ensemble",
+    "param_args": [],
+    "param_kwargs": {
+        "bootstrap": false,
+        "criterion": "squared_error",
+        "max_features": 0.6,
+        "min_samples_leaf": 0.08945099742006958,
+        "min_samples_split": 0.0037087774117744725,
+        "n_estimators": 10
+    },
+    "prepared_kwargs": {},
+    "spec_class": "sklearn"
+}
